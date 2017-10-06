@@ -43,7 +43,7 @@ def receive_messages(project, subscription_name):
         time.sleep(60)
        
 
-"""Data Streaming not supported in Python SDK. Use Java SDK"""
+"""Data Streaming with PubSub not supported in Python SDK. Use Java SDK"""
 
 """def read_from_pubsub(argv=None):
     parser = argparse.ArgumentParser()
