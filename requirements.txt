@@ -1,0 +1,7 @@
+redis
+google-cloud-pubsub
+apache-beam
+apache-beam[gcp]
+apache-beam[test]
+argparse
+google-cloud-dataflow
